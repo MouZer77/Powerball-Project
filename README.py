@@ -1,4 +1,6 @@
-##What are the most common numbers drawn in the Powerball?
+#In this project I will be be answering the following questions:
+
+#What are the most common numbers drawn in the Powerball?
 #What are the least common numbers drawn in the Powerball?
 # What are the most common number combinations drawn in the Powerball?
 # What are the least common number combinations drawn in the Powerball?
