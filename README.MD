@@ -26,3 +26,11 @@
 # Solicit Mentor Feedback:  I will check in with my mentors on the regular to help with any blocks I have, any guidance in the right direction if I bite off more than I could chew, resources for learning all the things I still need to learn to do what needs doing.  Most importantly, checking in periodically to make sure I am hitting above and beyond all my requirements.
 #
 # Project Plan Format:  I am aesthetically disabled.  I have no idea what looks good, but I will probably just look at different projects and whatever is in trend in big marketplaces and just utilize and adapt those fonts and displays.
+
+# Process Steps:
+# Scrape Data website, write to CSV
+# Data dis Jupyter Notebook MPL
+# Clean Data, remove crap.  Add extra column for day of the week (datetime, format specification)
+# With clean data - Create script that creates database in SQL, insert row for each CSV file
+# Script that works against data in DB for analysis
+# Tableau or Matplotlib

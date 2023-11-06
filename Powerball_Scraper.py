@@ -11,6 +11,7 @@ table = soup.find('table', id="winnerstable")
 # iterate through each row:
 header = [] #Gives Headers a place to be placed for organization
 rows = [] #Gives Rows a place to be placed for organization
+
 for i, row in enumerate(table.find_all('tr')):
     if i == 0:
         header = [el.text.strip() for el in row.find_all('th')]
