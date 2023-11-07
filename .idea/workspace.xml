@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18a18168-9ce1-4fda-9b3f-ff5e3651102d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Powerball_Scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Powerball_Scraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Data Exploration &amp; Cleaning Powerball.CSV-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Data Exploration &amp; Cleaning Powerball.CSV-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Exploration &amp; Cleaning Powerball.CSV.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Exploration &amp; Cleaning Powerball.CSV.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
