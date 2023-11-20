@@ -1,7 +1,0 @@
-import pandas as pd
-
-df1 = pd.read_csv(r"Powerball_Data_Analysis.csv")
-
-df2 = pd.read_csv(r"Data_Explore_State_Powerball.csv")
-
-print(df2['Draw Datw'])
