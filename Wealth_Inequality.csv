@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Characteristic,Gini Coeffecient
 Puerto Rico,0.55
 New York,0.52
@@ -52,3 +53,59 @@ Idaho,0.44
 Delaware,0.44
 Alaska,0.43
 Utah,0.43
+=======
+Characteristic,Gini Coeffecient
+Puerto Rico,0.55
+New York,0.52
+District of Columbia,0.51
+Connecticut,0.5
+Massachusetts,0.5
+California,0.5
+Louisiana,0.49
+Florida,0.49
+Alabama,0.49
+United States,0.49
+Illinois,0.48
+New Jersey,0.48
+West Virginia,0.48
+Kentucky,0.48
+Mississippi,0.48
+Arkansas,0.48
+New Mexico,0.48
+Texas,0.48
+Pennsylvania,0.48
+South Carolina,0.48
+North Carolina,0.48
+Virginia,0.48
+Oregon,0.47
+Nevada,0.47
+Montana,0.47
+Michigan,0.47
+Ohio,0.47
+North Dakota,0.47
+Georgia,0.47
+Washington,0.47
+Oklahoma,0.47
+Arizona,0.47
+Missouri,0.47
+Tennessee,0.47
+Rhode Island,0.46
+Kansas,0.46
+Nebraska,0.46
+Maine,0.46
+Maryland,0.46
+Hawaii,0.46
+Colorado,0.46
+Indiana,0.46
+Minnesota,0.46
+Iowa,0.45
+Wisconsin,0.45
+South Dakota,0.45
+New Hampshire,0.45
+Vermont,0.45
+Wyoming,0.44
+Idaho,0.44
+Delaware,0.44
+Alaska,0.43
+Utah,0.43
+>>>>>>> 2b512835f280dcbecb1c1a7dc31d9531d45013f2

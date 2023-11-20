@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,States,Sales in million U.S. dollars
 0,New York,10355.48
 1,Florida,9324.63
@@ -45,3 +46,52 @@
 43,Montana,77.78
 44,North Dakota,29.18
 45,Wyoming,27.41
+=======
+,States,Sales in million U.S. dollars
+0,New York,10355.48
+1,Florida,9324.63
+2,California,8865.75
+3,Texas,8296.89
+4,Massachusetts*,5853.59
+5,Ohio,5628.99
+6,Georgia,5553.12
+7,Pennsylvania,5121.29
+8,Michigan,4896.85
+9,Maryland,4684.19
+10,North Carolina,3887.1
+11,New Jersey,3634.15
+12,Illinois,3396.28
+13,Virginia,3002.4
+14,South Carolina,2253.56
+15,Tennessee,2027.34
+16,Missouri,1779.95
+17,Indiana,1702.86
+18,Oregon,1675.35
+19,Kentucky,1480.43
+20,Connecticut,1462.81
+21,West Virginia,1382.74
+22,Arizona,1368.37
+23,Rhode Island*,944.53
+24,Washington,907.69
+25,Wisconsin,887.82
+26,Colorado,826.88
+27,Minnesota,740.16
+28,Delaware,736.0
+29,Louisiana,582.93
+30,Arkansas,579.56
+31,New Hampshire,556.42
+32,Mississippi,432.86
+33,Iowa,432.66
+34,South Dakota,400.7
+35,Maine,385.8
+36,Idaho,376.31
+37,Oklahoma,350.34
+38,Kansas,312.99
+39,District of Columbia,207.28
+40,Nebraska,202.27
+41,Vermont,151.48
+42,New Mexico,136.87
+43,Montana,77.78
+44,North Dakota,29.18
+45,Wyoming,27.41
+>>>>>>> 2b512835f280dcbecb1c1a7dc31d9531d45013f2

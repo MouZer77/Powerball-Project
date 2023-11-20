@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Characteristic,Sales in million U.S. dollars
 New York,"10,355.48"
 Florida,"9,324.63"
@@ -45,3 +46,52 @@ New Mexico,136.87
 Montana,77.78
 North Dakota,29.18
 Wyoming,27.41
+=======
+Characteristic,Sales in million U.S. dollars
+New York,"10,355.48"
+Florida,"9,324.63"
+California,"8,865.75"
+Texas,"8,296.89"
+Massachusetts*,"5,853.59"
+Ohio,"5,628.99"
+Georgia,"5,553.12"
+Pennsylvania,"5,121.29"
+Michigan,"4,896.85"
+Maryland,"4,684.19"
+North Carolina,"3,887.1"
+New Jersey,"3,634.15"
+Illinois,"3,396.28"
+Virginia,"3,002.4"
+South Carolina,"2,253.56"
+Tennessee,"2,027.34"
+Missouri,"1,779.95"
+Indiana,"1,702.86"
+Oregon,"1,675.35"
+Kentucky,"1,480.43"
+Connecticut,"1,462.81"
+West Virginia,"1,382.74"
+Arizona,"1,368.37"
+Rhode Island*,944.53
+Washington,907.69
+Wisconsin,887.82
+Colorado,826.88
+Minnesota,740.16
+Delaware,736
+Louisiana,582.93
+Arkansas,579.56
+New Hampshire,556.42
+Mississippi,432.86
+Iowa,432.66
+South Dakota,400.7
+Maine,385.8
+Idaho,376.31
+Oklahoma,350.34
+Kansas,312.99
+District of Columbia,207.28
+Nebraska,202.27
+Vermont,151.48
+New Mexico,136.87
+Montana,77.78
+North Dakota,29.18
+Wyoming,27.41
+>>>>>>> 2b512835f280dcbecb1c1a7dc31d9531d45013f2
