@@ -41,6 +41,7 @@ Tableau or Matplotlib
 
 
 # TABLEAU LINKS!!!!!:
+# Wealth Inequality and Amount Spent  -  https://public.tableau.com/views/WealthInequalityandAmountSpent/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 # 2015 - Present Jackpot Amount Won by State  -  https://public.tableau.com/views/2015-PresentJackpotAmountWonbyState/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 # Powerball Winners by State  -  https://public.tableau.com/views/PowerballWinnersbyState/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 # State Powerball Winners Bar  -  https://public.tableau.com/views/StatePBWinners/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
